@@ -1,6 +1,7 @@
 High school students (11th grade, 15–16 years old) are increasingly developing sophisticated AI projects that address real-world problems, ranging from computer vision systems for healthcare to Natural Language Processing (NLP) tools for social good. These projects often utilize Python, TensorFlow, and open datasets from sources like Kaggle or NASA. 
 Here are examples of AI projects done by, or suitable for, 11th-grade students:
-1. Computer Vision & Healthcare Diagnostics 
+  1. Computer Vision & Healthcare Diagnostics 
+
         Bone Fracture Detection System: Utilizing a neural network algorithm to distinguish between X-ray images of healthy bones and fractured bones.
    
         Parkinson’s Gait Analyzer: Developing a computer vision model that analyzes smartphone camera footage of a person’s walking pattern to detect early signs of neurodegenerative diseases.
